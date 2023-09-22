@@ -70,14 +70,18 @@ struct ContentView: View {
 
         NavigationView {
             ZStack {
-                Image("background2")
+                Image("background")
                     .resizable()
                     .aspectRatio(UIImage(named:"background")!.size, contentMode: .fill)
                     .edgesIgnoringSafeArea(.all)
                 
                 VStack {
 
-                    Image("title").scaleEffect(1.2).padding(.bottom, 90)
+                    Image("title").resizable()
+                        .aspectRatio(contentMode: .fit)
+                        .padding(.bottom, 50)
+                    
+                    
                     Button(action: {
                         self.playerPaused.toggle()
                         if !(self.playerPaused) {
