@@ -10,5 +10,6 @@ Project Information:
 The swift files are located in the Shared folder of the main Monitor Me Submit folder. Main code is in the ContentView file. For best visualization, use the iPhone 11 Pro Max simulator. I have also tested the app on a physical iPhone X (to get real motion data). Run in Xcode. All assets (in the assets folder) are designed by me using Sketch.
 
 Simulator Photos:
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-09-27 at 01 34 00](https://user-images.githubusercontent.com/78284219/192458701-4f2441c4-2daa-4600-85f0-2f5bf8dc1d86.png) ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-09-27 at 01 34 41](https://user-images.githubusercontent.com/78284219/192458720-f2b8e006-d947-4040-abf3-43a0b95b14d3.png)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2023-09-22 at 21 52 13](https://github.com/maryam-abdool/Monitor-Me/assets/78284219/d7bdee85-6f6a-423b-b683-81df431caf76)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2023-09-22 at 21 52 24](https://github.com/maryam-abdool/Monitor-Me/assets/78284219/75380671-726b-4a0a-878e-8431d2213497)
 
